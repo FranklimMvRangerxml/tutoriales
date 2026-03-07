@@ -1,6 +1,6 @@
 [![Banner](./1768320353963.jpg)
 
-## Franklim Proyects &lt;insert-technology-here&gt;
+## Franklim Proyects y Tutoriales en colaboracion y personales;
 
 Cordial Saludo Aqui se encuentran medianamente definidos creaciones personales y colaboraciones con otros Devs
 ## Tutorials
